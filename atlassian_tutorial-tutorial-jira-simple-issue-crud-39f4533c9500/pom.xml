@@ -9,8 +9,8 @@
     <version>1.0</version>
     <description>This is the com.example.plugins.tutorial:IssueCRUDAndSearch plugin for Atlassian JIRA.</description>
     <organization>
-        <name>Example Company</name>
-        <url>http://www.example.com/</url>
+        <name>Jenny Test Sprint Plugin</name>
+        <url>https://github.com/wangjenny/Jira_Sprint_Plugin.git</url>
     </organization>
     <build>
         <plugins>
@@ -141,4 +141,3 @@
         <template.renderer.version>2.0.0</template.renderer.version>
     </properties>
 </project>
-
